@@ -1,0 +1,21 @@
+
+
+#tools-leftnav {
+	background-color:white;
+	width:100px;
+}
+
+#tools-leftnav a {
+	cursor:pointer;
+}
+
+#tools-leftnav a:hover {
+	background-color:gainsboro;
+	width:100px;
+}
+
+#tools-leftnav center {
+	background-color:#111;
+	color:white;
+	font-weight:bold;
+}
